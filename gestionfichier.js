@@ -47,3 +47,5 @@ class GestionFichier{
 var MyFile = new GestionFichier('Mon fichier')
 MyFile.read()
 MyFile.write()
+
+
