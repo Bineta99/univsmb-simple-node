@@ -24,5 +24,6 @@ class GestionFichier{
 let myfile = new GestionFichier('fichier.txt')
 myfile.read()
 myfile.write("Coucou")
+myfile.write("Tp web")
 myfile.affichage()
-myfile.delete()
+//myfile.delete()
